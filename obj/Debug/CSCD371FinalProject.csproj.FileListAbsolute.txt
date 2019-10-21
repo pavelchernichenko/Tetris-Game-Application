@@ -1,0 +1,9 @@
+C:\Users\pavel\OneDrive\Desktop\Tetris Game Application\obj\Debug\CSCD371FinalProject.csprojAssemblyReference.cache
+C:\Users\pavel\OneDrive\Desktop\Tetris Game Application\obj\Debug\HelpWindow.g.cs
+C:\Users\pavel\OneDrive\Desktop\Tetris Game Application\obj\Debug\PlayerInfo.g.cs
+C:\Users\pavel\OneDrive\Desktop\Tetris Game Application\obj\Debug\PlayWindow.g.cs
+C:\Users\pavel\OneDrive\Desktop\Tetris Game Application\obj\Debug\MainWindow.g.cs
+C:\Users\pavel\OneDrive\Desktop\Tetris Game Application\obj\Debug\About.g.cs
+C:\Users\pavel\OneDrive\Desktop\Tetris Game Application\obj\Debug\App.g.cs
+C:\Users\pavel\OneDrive\Desktop\Tetris Game Application\obj\Debug\CSCD371FinalProject_MarkupCompile.cache
+C:\Users\pavel\OneDrive\Desktop\Tetris Game Application\obj\Debug\CSCD371FinalProject_MarkupCompile.lref

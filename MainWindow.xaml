@@ -1,0 +1,29 @@
+﻿<Window x:Class="CSCD371FinalProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSCD371FinalProject"
+        mc:Ignorable="d"
+        Title="Tetris" Height="312.705" Width="381.583">
+    <StackPanel>
+        <Grid Background="#FFFF1717" Height="285">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*" />
+
+            </Grid.ColumnDefinitions>
+
+            <Grid.Effect>
+                <DropShadowEffect/>
+            </Grid.Effect>
+
+            <Button Content="Start" HorizontalAlignment="Left" Margin="135,30,0,0" VerticalAlignment="Top" Width="92" Click="Button_Start" FontFamily="Engravers MT" Background="White" Foreground="#FFF00000" BorderBrush="Black" Height="38"/>
+            <Button Content="Exit" HorizontalAlignment="Left" Margin="135,73,0,0" VerticalAlignment="Top" Width="92" Click="Button_Exit" FontFamily="Engravers MT" Background="White" Foreground="#FFF00000" BorderBrush="Black" Height="38"/>
+            <Button Content="Help" HorizontalAlignment="Left" Margin="135,121,0,0" VerticalAlignment="Top" Width="92" Click="Button_Help" FontFamily="Engravers MT" Background="White" Foreground="#FFF00000" BorderBrush="Black" Height="38"/>
+            <Label Content="Developed by Jacob Stevens and Pavel Chernichenko" HorizontalAlignment="Left" Margin="34,219,0,0" VerticalAlignment="Top" Height="29" Width="314" Foreground="White" FontSize="10" FontFamily="OCR A Extended" RenderTransformOrigin="0.5,0.5">
+            </Label>
+            <Button Content="About" Click="Button_Click" HorizontalAlignment="Left" Margin="135,164,0,0" VerticalAlignment="Top" Width="92" FontFamily="Engravers MT" Background="White" Foreground="#FFF00000" BorderBrush="Black" Height="38"/>
+        </Grid>
+    </StackPanel>
+</Window>
